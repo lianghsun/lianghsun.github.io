@@ -30,7 +30,7 @@ twitter_username: Laplace_Owen
 github_username: lianghsun
 
 # Build settings
-theme: Lanyon
+theme: lanyon
 plugins:
   - jekyll-feed
 
